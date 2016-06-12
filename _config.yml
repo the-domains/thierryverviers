@@ -1,0 +1,28 @@
+name: thierryverviers
+favicon: null
+layout_spectrum: 0.969827183522284
+typography_spectrum: 0.8485698385629803
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.7408303290139884
+  lightness: 0.3887497920077294
+  saturation: 0.3333036513067782
+  rhythmicContrast: 0.4650182290934026
+purpose: []
